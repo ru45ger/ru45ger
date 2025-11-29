@@ -30,5 +30,6 @@ I build systems that connect the hangar floor with executive dashboards: from AS
 
 ## How to reach me
 
-- Email: ru45ger@gmail.com
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-handle)
+- Email: alan.bryant@example.com
+- LinkedIn: [Alan Bryant on LinkedIn](https://www.linkedin.com/in/your-real-handle)
+
