@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Alan 👋
 
-<!--
-**ru45ger/ru45ger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aviation quality, compliance & audit lead turned full-stack developer, based in the UAE.  
+I build systems that connect the hangar floor with executive dashboards: from AS9110/ISO 9001 audits all the way to modern SaaS apps.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aviation quality, compliance & risk management (AS9110, ISO 9001, ISO 14001, MAR/military)
+- Full-stack web development (React, TypeScript, Node, Express, PostgreSQL, Drizzle ORM)
+- Product design for audit, risk, fitness, and marketing automation platforms
+
+## Tech stack
+
+- Frontend: React, TypeScript, Tailwind CSS, shadcn/ui
+- Backend: Node.js, Express, PostgreSQL, Drizzle ORM
+- Tooling: Docker, Git, GitHub, REST APIs, OpenAI/Anthropic APIs
+
+## Current projects
+
+- **AuditFlow Pro** – Enterprise audit & compliance management for ISO 19011 / AS91xx / ISO 9001/14001.
+- **ProConnect** – Professional networking platform focusing on trust, transparency, and real signal.
+- **AI Marketing Automation App** – Desktop tool for end-to-end campaign generation and execution.
+- **Mister Gym / B.FitPro** – Fitness marketplace connecting trainers and clients with programs and nutrition.
+
+## Aviation & quality background
+
+- Certified auditor/inspector in aerospace MRO environments
+- Experience with military aviation requirements and engine/airframe maintenance
+- Strong focus on PDCA, risk-based thinking, and value management (BS EN 12973)
+
+## How to reach me
+
+- Email: your.email@here
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-handle)
